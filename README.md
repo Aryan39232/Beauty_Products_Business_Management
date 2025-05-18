@@ -37,7 +37,7 @@
 
 4.Configure the database connection in application.properties (check the Database section for more information). <br>
 
-5.Run the project (by running main method is SsBeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
+5.Run the project (by running main method is BeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
 
 6.Open http://localhost:8080/home in any browser. <br>
 
