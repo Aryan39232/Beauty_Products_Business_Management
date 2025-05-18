@@ -29,8 +29,10 @@
 
 
 ## Installation :
+
 1. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
+     
 2. Make sure you are in the Beauty_Products directory. <br>
 
 3.Configure the database connection in application.properties (check the Database section for more information). <br>
