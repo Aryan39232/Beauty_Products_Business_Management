@@ -1,5 +1,5 @@
 
-#  SS-Beauty-Products Business Management Web Application : <br>
+#  Beauty_Products_Business_Management : <br>
 
 
 <img width="960" alt="Home Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/3e29d81e-ac4d-4e4c-98fe-9aaf600867a3">
@@ -30,14 +30,10 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SnehalAShinde/Spring_Boot_Project.git <br>
-           OR
-   Download the zip
-
 1. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
      
-2. Make sure you are in the SS_Beauty_Products directory. <br>
+2. Make sure you are in the Beauty_Products directory. <br>
 
 4.Configure the database connection in application.properties (check the Database section for more information). <br>
 
