@@ -29,19 +29,17 @@
 
 
 ## Installation :
-
 1. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
-     
 2. Make sure you are in the Beauty_Products directory. <br>
 
-4.Configure the database connection in application.properties (check the Database section for more information). <br>
+3.Configure the database connection in application.properties (check the Database section for more information). <br>
 
-5.Run the project (by running main method is BeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
+4.Run the project (by running main method is BeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
 
-6.Open http://localhost:8080/home in any browser. <br>
+5.Open http://localhost:8080/home in any browser. <br>
 
-7.Now your tables will be created in the databse. <br>
+6.Now your tables will be created in the databse. <br>
    - You have to add one admin data manually to login as admin, So add one admin data. <br>
     
 
